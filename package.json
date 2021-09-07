@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Middleman 4 + Webpack",
   "repository": "https://github.com/tomrutgers/middleman-webpack",
-  "author": "Tom Rutgers <trutgers01@hotmail.com>",
+  "author": "Doug Berkley <douglasmberkley@gmail.com>",
   "license": "MIT",
   "browserslist": ">0.25%, not ie 11, not op_mini all, not dead",
   "devDependencies": {
@@ -14,9 +14,7 @@
     "eslint": "^7.6.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
-    "node-sass": "^4.12.0",
     "postcss-loader": "^3.0.0",
-    "sass-loader": "^9.0.2",
     "style-loader": "^1.1.3",
     "stylelint": "^13.6.1",
     "stylelint-config-recommended-scss": "^4.1.0",
@@ -34,9 +32,5 @@
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "terser-webpack-plugin": "^3.0.8"
-  },
-  "engines": {
-    "node": "10.16",
-    "npm": ">=6.0.0"
   }
 }
